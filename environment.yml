@@ -1,0 +1,14 @@
+name: del
+
+dependencies:
+  - python=3.9
+  - pip:
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
+    - scikit-learn
+    - tensorflow
+    - tensorflow-datasets
+    - jupyterlab
+    - tqdm

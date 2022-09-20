@@ -2,6 +2,7 @@ name: del
 
 dependencies:
   - python=3.9
+  - pip
   - pip:
     - pandas
     - numpy

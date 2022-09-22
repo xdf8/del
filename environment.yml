@@ -13,3 +13,4 @@ dependencies:
     - tensorflow-datasets
     - jupyterlab
     - tqdm
+    - pre-commit

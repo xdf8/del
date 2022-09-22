@@ -7,3 +7,4 @@ tensorflow
 tensorflow-datasets
 jupyterlab
 tqdm
+pre-commit

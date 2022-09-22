@@ -2,8 +2,8 @@
 
 FHNW Deep Learning
 
-# create conda env from .yml
+## create conda env from .yaml
 
 ```sh
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
